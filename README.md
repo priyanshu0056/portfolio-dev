@@ -1,4 +1,4 @@
-******************Welcome*****************
+*****************Welcome*****************
 # Portfolio-Website-using-Flask-and-Python
 ******Author: Priyanshu Sharma******
 
@@ -12,5 +12,6 @@
 8. Replace sample images in the static/images folder with own images and deploy application.
 9. Use "pip freeze > requirements.txt" to generate a list of installed libraries and use the .txt file for    easy library installation on hosting platforms.
 10. Use hosting platforms such as Pythonanywhere, AWS, Heroku, or GCP to host the Flask web-app.
-11. Check out my website at # https://rahulsonti.pythonanywhere.com/ .
-# PEACE OUT!!!
+11. Check out my website at # https://priyanshuportfolio.onrender.com . Refresh once after opening for better intercation.
+
+# Bye Bye !
